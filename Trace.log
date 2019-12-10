@@ -1,0 +1,54 @@
+------------ GameMaker 8.1.135.6892 --------------
+Not running from the ApplicationData directory
+Executable does not exist in ApplicationData C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe
+Executable does not exist in ApplicationData C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe.config
+Executable does not exist in ApplicationData C:\Users\iNiet\AppData\Roaming\GameMaker\BouncyCastle.Crypto.dll
+Executable does not exist in ApplicationData C:\Users\iNiet\AppData\Roaming\GameMaker\Ionic.Zip.Reduced.dll
+unzipping "C:\Users\iNiet\AppData\Roaming\GameMaker\UpgradeZip\upgrade.zip" to "C:\Users\iNiet\AppData\Roaming\GameMaker\Upgrade"
+Deleting the upgrade Zip directory "C:\Users\iNiet\AppData\Roaming\GameMaker\UpgradeZip"
+Upgrade Directory exists - copying over data
+Starting the Application Data executable "C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\Users\iNiet\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\Users\iNiet\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.135.6892 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\iNiet\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\iNiet\AppData\Roaming\GameMaker\Game_Maker.exe
+------------ GameMaker 8.1.135.6892 --------------
+Not running from the ApplicationData directory
+Starting the Application Data executable "C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\Users\iNiet\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\Users\iNiet\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.135.6892 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\iNiet\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\iNiet\AppData\Roaming\GameMaker\Game_Maker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update.rss
+System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadData(Uri address)
+   en Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+------------ GameMaker 8.1.135.6892 --------------
+Not running from the ApplicationData directory
+Starting the Application Data executable "C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\Users\iNiet\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\Users\iNiet\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.135.6892 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\iNiet\GameMaker 8.1\GameMaker.exe
+Starting process for C:\Users\iNiet\AppData\Roaming\GameMaker\Game_Maker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update.rss
+System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadData(Uri address)
+   en Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
+------------ GameMaker 8.1.135.6892 --------------
+Not running from the ApplicationData directory
+Starting the Application Data executable "C:\Users\iNiet\AppData\Roaming\GameMaker\GameMaker.exe" --YYOriginalFilename="C:\Users\iNiet\GameMaker 8.1\GameMaker.exe" 
+Exiting the original application - "C:\Users\iNiet\GameMaker 8.1\GameMaker.exe"
+------------ GameMaker 8.1.135.6892 --------------
+Starting the ApplicationData executable
+found --YYOriginalFilename=C:\Users\iNiet\GameMaker 8.1\GameMaker.exe
+urlForUpdate = http://store.yoyogames.com/downloads/gm4win/update.rss
+Starting process for C:\Users\iNiet\AppData\Roaming\GameMaker\Game_Maker.exe
+System.Net.WebException: Error en el servidor remoto: (404) No se encontró.
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadData(Uri address)
+   en Updater.SparkleDefaultHTTPUpdateDriver.DownloadUpdateFile(SparkleUpdate _update, String _urlforUpdate)
